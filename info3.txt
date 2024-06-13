@@ -1,1 +1,2 @@
 yet another info file
+command line information stuff and so on 
